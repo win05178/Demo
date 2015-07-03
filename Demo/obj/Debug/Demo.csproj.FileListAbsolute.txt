@@ -13,3 +13,4 @@ C:\GF\Demo\Demo\bin\Debug\xunit.core.xml
 C:\GF\Demo\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
 C:\GF\Demo\Demo\obj\Debug\Demo.dll
 C:\GF\Demo\Demo\obj\Debug\Demo.pdb
+C:\GF\Demo\Demo\bin\Debug\Should.dll

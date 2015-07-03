@@ -22,6 +22,7 @@ namespace Demo
     {
       this.fixture = fixture;
       this.fixture.House.Children.Clear();
+      
     }
     [Fact]
     public void test1()
