@@ -1,0 +1,15 @@
+C:\GF\Demo\Demo\bin\Debug\xunit.abstractions.dll
+C:\GF\Demo\Demo\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\GF\Demo\Demo\bin\Debug\xunit.runner.utility.desktop.dll
+C:\GF\Demo\Demo\bin\Debug\xunit.execution.desktop.dll
+C:\GF\Demo\Demo\bin\Debug\Demo.dll
+C:\GF\Demo\Demo\bin\Debug\Demo.pdb
+C:\GF\Demo\Demo\bin\Debug\xunit.assert.dll
+C:\GF\Demo\Demo\bin\Debug\xunit.core.dll
+C:\GF\Demo\Demo\bin\Debug\xunit.assert.pdb
+C:\GF\Demo\Demo\bin\Debug\xunit.assert.xml
+C:\GF\Demo\Demo\bin\Debug\xunit.core.pdb
+C:\GF\Demo\Demo\bin\Debug\xunit.core.xml
+C:\GF\Demo\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\GF\Demo\Demo\obj\Debug\Demo.dll
+C:\GF\Demo\Demo\obj\Debug\Demo.pdb
